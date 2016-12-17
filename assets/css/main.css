@@ -146,6 +146,7 @@ header {
     border-right: 1px solid #999;
     background-color: #EEE;
     text-align: center;
+    overflow: scroll;
   }
 
     nav ul {
