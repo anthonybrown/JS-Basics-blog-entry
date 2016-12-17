@@ -295,7 +295,7 @@ header {
   }
 
 .js nav[role=navigation] {
-    overflow: hidden;
+    overflow: scroll;
     max-height: 0;
   }
 
